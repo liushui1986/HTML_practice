@@ -1,0 +1,27 @@
+html {
+    background: black;
+}
+
+#girl {
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+}
+
+.head {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0 25% 0 25%;
+}
+
+.image {
+    border: 5px solid white;
+    width: 50%;
+    text-align: center;
+    margin: 2% 25% 0 25%
+}
+
+p {
+    color: white;
+    text-align: center;
+}
